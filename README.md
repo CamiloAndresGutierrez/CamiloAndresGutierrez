@@ -1,6 +1,6 @@
 # 👨‍💻 Camilo | Full-Stack Engineer  
 
-Hello there! I'm a passionate **Full-Stack Engineer** with **4 years of experience** building scalable, high-quality web applications. I specialize in **Ruby on Rails** and **React**, with a knack for creating seamless user experiences and robust backend systems.
+Hello there! I'm a passionate **Full-Stack Engineer** with **5 years of experience** building scalable, high-quality web applications. I specialize in **Ruby on Rails** and **React**, with a knack for creating seamless user experiences and robust backend systems.
 
 ---
 
@@ -26,11 +26,6 @@ Hello there! I'm a passionate **Full-Stack Engineer** with **4 years of experien
 ### 🗂️ **[Chat App]**
 - **Description:** A feature-rich chat application built with Ruby on Rails and React, supporting real-time messaging via ActionCable.
 - **Tech Used:** Rails, React, PostgreSQL, WebSockets
----
-
-## 🌱 **Currently Learning**
-- Exploring AI integrations in web applications
-
 ---
 
 ## 🤝 **Let's Connect**
